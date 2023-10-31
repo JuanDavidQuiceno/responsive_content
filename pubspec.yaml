@@ -1,7 +1,7 @@
 name: responsive_content
-description: A new Flutter package project.
+description: Responsive content is a comprehensive solution designed to guarantee that the content, whether on a web page, a mobile application, or any other digital environment, we can organize and adapt the distribution of information depending on the layout of the screen width.
 version: 0.0.1
-homepage: https://github.com/JuanDavidQuiceno/api_sdk
+homepage: https://github.com/JuanDavidQuiceno/responsive_content
 
 environment:
   sdk: ">=3.1.3 <4.0.0"
